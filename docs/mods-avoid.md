@@ -191,7 +191,7 @@ Causes save bloat due to using the ### PlaceAtMe### function. I recommend [Mojav
 
 ### True Wasteland Economy
 
-Incredibly script-heavy, will cause save bloat and deteriorate performance over time. I recommend [Economy Overhaul](https://www.nexusmods.com/newvegas/mods/62899) or [New Vegas Improved Economy](https://www.nexusmods.com/newvegas/mods/71604) instead.
+Incredibly script-heavy, will cause save bloat and deteriorate performance over time. TTW already overhauls the economy, so this sort of mod is unneccesary.
 
 ### DUST
 
